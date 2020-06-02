@@ -1,0 +1,24 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "slackbot for maxlead",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxleadsam/slackbot.git"
+  },
+  "author": "Sam Vermeerssen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxleadsam/slackbot/issues"
+  },
+  "homepage": "https://github.com/maxleadsam/slackbot#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "slackbots": "^1.2.0"
+  }
+}
