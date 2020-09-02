@@ -13,7 +13,7 @@ bot.on('start', () => {
     const params = {
         icon_emjoi: ':smiley:'
     };
-    bot.postMessageToChannel('general', 'My name is Walt', params);
+    bot.postMessageToChannel('random', 'Good morning team Analytics', params);
 });
 
 // Error Handler
